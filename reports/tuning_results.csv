@@ -1,0 +1,5 @@
+model,search,candidates,best_cv_MAE,seconds,best_params
+Ridge,GridSearchCV,28,2331.4145476354324,4.3,"{'alpha': 0.01, 'min_frequency': 5}"
+Random Forest,RandomizedSearchCV,30,2806.8831959184545,58.1,"{'max_depth': 8, 'max_features': 0.3, 'min_samples_leaf': 2}"
+Gradient Boosting,RandomizedSearchCV,40,2426.604065505019,41.0,"{'learning_rate': 0.1604, 'max_depth': 3, 'min_samples_leaf': 9, 'n_estimators': 127, 'subsample': 1.0}"
+HistGradientBoosting,RandomizedSearchCV,40,2469.01469175998,47.2,"{'l2_regularization': 0.0062, 'learning_rate': 0.0842, 'max_depth': 4, 'max_iter': 388, 'min_samples_leaf': 9}"
