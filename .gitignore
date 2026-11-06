@@ -17,6 +17,7 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large generated artefacts (model files are added deliberately on Day 12)
+# Model artefacts: only the final, documented model is tracked
 *.joblib
 *.pkl
+!models/final_model.joblib
