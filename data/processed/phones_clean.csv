@@ -1,0 +1,517 @@
+model,colour,storage_gb,ram_gb,battery_mah,rear_camera_mp,front_camera_mp,ai_lens,display_size_cm,processor,price,model_key
+Infinix SMART 7,Night Black,64,4.0,6000,13,5,1,16.76,Unisoc Spreadtrum SC9863A1,7299,infinix smart 7
+Infinix SMART 7,Azure Blue,64,4.0,6000,13,5,1,16.76,Unisoc Spreadtrum SC9863A1,7299,infinix smart 7
+MOTOROLA G32,Mineral Gray,128,8.0,5000,50,16,0,16.64,Qualcomm Snapdragon 680,11999,motorola g32
+POCO C50,Royal Blue,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,5649,poco c50
+Infinix HOT 30i,Marigold,128,8.0,5000,50,5,1,16.76,G37,8999,infinix hot 30i
+Infinix HOT 30i,Glacier Blue,128,8.0,5000,50,5,1,16.76,G37,8999,infinix hot 30i
+Infinix HOT 30i,Mirror Black,128,8.0,5000,50,5,1,16.76,G37,8999,infinix hot 30i
+Infinix HOT 30i,Diamond White,128,8.0,5000,50,5,1,16.76,G37,8999,infinix hot 30i
+Infinix HOT 30i,Diamond White,64,4.0,5000,50,5,1,16.76,G37,7999,infinix hot 30i
+Infinix HOT 30i,Mirror Black,64,4.0,5000,50,5,1,16.76,G37,7999,infinix hot 30i
+REDMI 10,Shadow Black,64,4.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,9499,redmi 10
+Infinix HOT 30i,Glacier Blue,64,4.0,5000,50,5,1,16.76,G37,7999,infinix hot 30i
+Infinix SMART 7,Emerald Green,64,4.0,6000,13,5,1,16.76,Unisoc Spreadtrum SC9863A1,7299,infinix smart 7
+SAMSUNG Galaxy F13,Waterfall Blue,128,4.0,6000,50,8,0,16.76,Exynos 850,10699,samsung galaxy f13
+SAMSUNG Galaxy F04,Opal Green,64,4.0,5000,13,5,0,16.51,Mediatek Helio P35,7299,samsung galaxy f04
+POCO C51,Royal Blue,64,4.0,5000,8,5,0,16.56,Helio G36,6999,poco c51
+Infinix HOT 30i,Marigold,64,4.0,5000,50,5,1,16.76,G37,7999,infinix hot 30i
+POCO C51,Power Black,64,4.0,5000,8,5,0,16.56,Helio G36,6999,poco c51
+POCO C50,Country Green,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,5649,poco c50
+MOTOROLA e13,Cosmic Black,64,4.0,5000,13,5,0,16.51,Unisoc T606,7299,motorola e13
+vivo T2x 5G,Aurora Gold,128,8.0,5000,50,8,0,16.71,Dimensity 6020,15999,vivo t2x 5g
+vivo T2x 5G,Marine Blue,128,8.0,5000,50,8,0,16.71,Dimensity 6020,15999,vivo t2x 5g
+vivo T2x 5G,Glimmer Black,128,8.0,5000,50,8,0,16.71,Dimensity 6020,15999,vivo t2x 5g
+vivo T2x 5G,Marine Blue,128,6.0,5000,50,8,0,16.71,Dimensity 6020,13999,vivo t2x 5g
+vivo T2x 5G,Glimmer Black,128,4.0,5000,50,8,0,16.71,Dimensity 6020,12999,vivo t2x 5g
+vivo T2x 5G,Glimmer Black,128,6.0,5000,50,8,0,16.71,Dimensity 6020,13999,vivo t2x 5g
+vivo T2x 5G,Marine Blue,128,4.0,5000,50,8,0,16.71,Dimensity 6020,12999,vivo t2x 5g
+Infinix Smart 7 HD,Green Apple,64,2.0,5000,8,5,1,16.76,Spreadtrum SC9863A1,6199,infinix smart 7 hd
+REDMI A1+,Black,32,3.0,5000,8,5,0,16.56,Mediatek Helio A22,6599,redmi a1+
+REDMI A1+,Light Blue,32,3.0,5000,8,5,0,16.56,Mediatek Helio A22,6599,redmi a1+
+POCO C55,Power Black,64,4.0,5000,50,5,0,17.04,Mediatek Helio G85,7749,poco c55
+REDMI A1+,Light Green,32,3.0,5000,8,5,0,16.56,Mediatek Helio A22,6599,redmi a1+
+POCO C55,Cool Blue,64,4.0,5000,50,5,0,17.04,Mediatek Helio G85,7749,poco c55
+POCO C55,Forest Green,64,4.0,5000,50,5,0,17.04,Mediatek Helio G85,7749,poco c55
+POCO C55,Cool Blue,128,6.0,5000,50,5,0,17.04,Mediatek Helio G85,8999,poco c55
+SAMSUNG Galaxy F13,Nightsky Green,64,4.0,6000,50,8,0,16.76,Exynos 850,9699,samsung galaxy f13
+SAMSUNG Galaxy F13,Nightsky Green,128,4.0,6000,50,8,0,16.76,Exynos 850,10699,samsung galaxy f13
+MOTOROLA g13,Matte Charcoal,128,4.0,5000,50,8,0,16.51,Helio G85,9999,motorola g13
+POCO M4 5G,Cool Blue,64,4.0,5000,50,8,0,16.71,Mediatek Dimensity 700,11999,poco m4 5g
+MOTOROLA e32,Eco Black,64,4.0,5000,50,8,0,16.51,Mediatek Helio G37,7999,motorola e32
+REDMI 10,Caribbean Green,128,6.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,10999,redmi 10
+SAMSUNG Galaxy F04,Jade Purple,64,4.0,5000,13,5,0,16.51,Mediatek Helio P35,7299,samsung galaxy f04
+MOTOROLA G32,Satin Silver,128,8.0,5000,50,16,0,16.64,Qualcomm Snapdragon 680,11999,motorola g32
+REDMI 10,Sunrise Orange,64,4.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,9499,redmi 10
+SAMSUNG Galaxy F13,Sunrise Copper,128,4.0,6000,50,8,0,16.76,Exynos 850,10699,samsung galaxy f13
+MOTOROLA e32,Arctic Blue,64,4.0,5000,50,8,0,16.51,Mediatek Helio G37,7999,motorola e32
+MOTOROLA g13,Lavender Blue,128,4.0,5000,50,8,0,16.51,Helio G85,9999,motorola g13
+POCO C55,Power Black,128,6.0,5000,50,5,0,17.04,Mediatek Helio G85,8999,poco c55
+vivo T2 5G,Velocity Wave,128,8.0,4500,40,16,0,16.21,Snapdragon 695,20999,vivo t2 5g
+vivo T2 5G,Nitro Blaze,128,8.0,4500,40,16,0,16.21,Snapdragon 695,20999,vivo t2 5g
+MOTOROLA G62 5G,Frosted Blue,128,6.0,5000,50,16,0,16.64,Qualcomm Snapdragon 695 5G,15499,motorola g62 5g
+POCO C50,Royal Blue,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,6999,poco c50
+vivo T2 5G,Nitro Blaze,128,6.0,4500,32,16,0,16.21,Snapdragon 695,18999,vivo t2 5g
+vivo T2 5G,Velocity Wave,128,6.0,4500,32,16,0,16.21,Snapdragon 695,18999,vivo t2 5g
+POCO M5,Yellow,64,4.0,5000,50,8,0,16.71,Mediatek Helio G99,12499,poco m5
+MOTOROLA G62 5G,Midnight Gray,128,6.0,5000,50,16,0,16.64,Qualcomm Snapdragon 695 5G,15499,motorola g62 5g
+POCO M4 5G,Power Black,64,4.0,5000,50,8,0,16.71,Mediatek Dimensity 700,11999,poco m4 5g
+SAMSUNG Galaxy F13,Waterfall Blue,64,4.0,6000,50,8,0,16.76,Exynos 850,9699,samsung galaxy f13
+SAMSUNG Galaxy F13,Sunrise Copper,64,4.0,6000,50,8,0,16.76,Exynos 850,9699,samsung galaxy f13
+POCO M5,Power Black,64,4.0,5000,50,8,0,16.71,Mediatek Helio G99,12499,poco m5
+MOTOROLA e13,Creamy White,64,4.0,5000,13,5,0,16.51,Unisoc T606,7299,motorola e13
+realme C33 2023,Sandy Gold,128,4.0,5000,50,5,0,16.51,Unisoc T612,10499,realme c33 2023
+realme C33 2023,Aqua Blue,128,4.0,5000,50,5,0,16.51,Unisoc T612,10499,realme c33 2023
+SAMSUNG Galaxy F14 5G,Goat Green,128,6.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",14490,samsung galaxy f14 5g
+MOTOROLA g73 5G,Midnight Blue,128,8.0,5000,50,16,0,16.51,Mediatek Dimensity 930,16999,motorola g73 5g
+realme C33 2023,Night Sea,128,4.0,5000,50,5,0,16.51,Unisoc T612,10499,realme c33 2023
+realme C30,Bamboo Green,32,3.0,5000,8,5,0,16.51,Unisoc T612,6499,realme c30
+realme C30,Lake Blue,32,3.0,5000,8,5,0,16.51,Unisoc T612,6499,realme c30
+realme C30,Denim Black,32,2.0,5000,8,5,0,16.51,Unisoc T612,5999,realme c30
+realme C30,Denim Black,32,3.0,5000,8,5,0,16.51,Unisoc T612,6499,realme c30
+POCO X5 5G,Wildcat Blue,128,6.0,5000,48,13,0,16.94,Qualcomm Snapdragon 695,15999,poco x5 5g
+REDMI A1+,Light Blue,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,6299,redmi a1+
+POCO M4 Pro,Yellow,128,8.0,5000,64,16,0,16.33,Mediatek Helio G96,13999,poco m4 pro
+MOTOROLA G62 5G,Midnight Gray,128,8.0,5000,50,16,0,16.64,Qualcomm Snapdragon 695 5G,16499,motorola g62 5g
+POCO C50,Royal Blue,32,3.0,5000,8,5,0,16.56,Mediatek Helio A22,6299,poco c50
+POCO M5,Icy Blue,128,6.0,5000,50,8,0,16.71,Mediatek Helio G99,14499,poco m5
+REDMI 11 Prime,Flashy Black,64,4.0,5000,50,8,0,16.71,Helio G99,9999,redmi 11 prime
+realme C55,Sunshower,128,8.0,5000,64,8,0,17.07,Helio G88,13999,realme c55
+realme C55,Rainy Night,128,8.0,5000,64,8,0,17.07,Helio G88,13999,realme c55
+realme C55,Sunshower,64,6.0,5000,64,8,0,17.07,Helio G88,11999,realme c55
+realme C55,Rainforest,128,8.0,5000,64,8,0,17.07,Helio G88,13999,realme c55
+realme C55,Rainy Night,64,6.0,5000,64,8,0,17.07,Helio G88,11999,realme c55
+realme C55,Rainforest,64,6.0,5000,64,8,0,17.07,Helio G88,11999,realme c55
+realme C55,Sunshower,64,4.0,5000,64,8,0,17.07,Helio G88,10999,realme c55
+realme C55,Rainforest,64,4.0,5000,64,8,0,17.07,Helio G88,10999,realme c55
+realme C55,Rainy Night,64,4.0,5000,64,8,0,17.07,Helio G88,10999,realme c55
+MOTOROLA G62 5G,Frosted Blue,128,8.0,5000,50,16,0,16.64,Qualcomm Snapdragon 695 5G,16499,motorola g62 5g
+SAMSUNG Galaxy F14 5G,B.A.E. Purple,128,6.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",14490,samsung galaxy f14 5g
+SAMSUNG Galaxy F14 5G,B.A.E. Purple,128,4.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",13490,samsung galaxy f14 5g
+REDMI 10,Caribbean Green,64,4.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,9499,redmi 10
+REDMI 11 Prime,Peppy Purple,64,4.0,5000,50,8,0,16.71,Helio G99,9999,redmi 11 prime
+MOTOROLA g73 5G,Lucent White,128,8.0,5000,50,16,0,16.51,Mediatek Dimensity 930,16999,motorola g73 5g
+POCO M5,Icy Blue,64,4.0,5000,50,8,0,16.71,Mediatek Helio G99,12499,poco m5
+realme 10 Pro 5G,Dark Matter,128,8.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,19999,realme 10 pro 5g
+realme 10 Pro 5G,Nebula Blue,128,6.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,18999,realme 10 pro 5g
+POCO M5,Power Black,128,6.0,5000,50,8,0,16.71,Mediatek Helio G99,14499,poco m5
+POCO M5,Yellow,128,6.0,5000,50,8,0,16.71,Mediatek Helio G99,14499,poco m5
+POCO M4 Pro 5G,Yellow,128,8.0,5000,50,16,0,16.76,Mediatek Dimensity 810,15999,poco m4 pro 5g
+realme 10 Pro 5G,Hyperspace,128,8.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,19999,realme 10 pro 5g
+realme 10 Pro 5G,Dark Matter,128,6.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,18999,realme 10 pro 5g
+realme 10 Pro 5G,Nebula Blue,128,8.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,19999,realme 10 pro 5g
+realme 10 Pro 5G,Hyperspace,128,6.0,5000,108,16,0,17.07,Qualcomm Snapdragon 695 5G,18999,realme 10 pro 5g
+POCO C50,Country Green,32,3.0,5000,8,5,0,16.56,Mediatek Helio A22,6299,poco c50
+realme Narzo 30 Pro 5G,Blade Silver,128,8.0,5000,48,16,0,16.51,MediaTek Dimensity 800U,15999,realme narzo 30 pro 5g
+Infinix Note 12 Pro 5G,Force Black,128,8.0,5000,108,16,0,17.02,Mediatek Dimensity 810 5G,15999,infinix note 12 pro 5g
+Infinix Note 12 Pro 5G,Snowfall,128,8.0,5000,108,16,0,17.02,Mediatek Dimensity 810 5G,15999,infinix note 12 pro 5g
+POCO X5 5G,Supernova Green,128,6.0,5000,48,13,0,16.94,Qualcomm Snapdragon 695,15999,poco x5 5g
+SAMSUNG Galaxy F14 5G,Goat Green,128,4.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",13490,samsung galaxy f14 5g
+SAMSUNG Galaxy F23 5G,Aqua Blue,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,16999,samsung galaxy f23 5g
+REDMI 10,Pacific Blue,128,6.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,10999,redmi 10
+SAMSUNG Galaxy F14 5G,Omg Black,128,4.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",13490,samsung galaxy f14 5g
+MOTOROLA Edge 40,Eclipse Black,256,8.0,4400,50,32,0,16.64,Dimensity 8020,29999,motorola edge 40
+POCO M4 5G,Yellow,64,4.0,5000,50,8,0,16.71,Mediatek Dimensity 700,11999,poco m4 5g
+POCO M4 5G,Yellow,128,6.0,5000,50,8,0,16.71,Mediatek Dimensity 700,13999,poco m4 5g
+REDMI 10,Midnight Black,64,4.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,9499,redmi 10
+Infinix Smart 7 HD,Ink Black,64,2.0,5000,8,5,1,16.76,Spreadtrum SC9863A1,6199,infinix smart 7 hd
+Infinix Smart 7 HD,Silk Blue,64,2.0,5000,8,5,1,16.76,Spreadtrum SC9863A1,6199,infinix smart 7 hd
+Infinix Smart 7 HD,Jade White,64,2.0,5000,8,5,1,16.76,Spreadtrum SC9863A1,6199,infinix smart 7 hd
+realme Narzo 30,Racing Silver,128,6.0,5000,48,16,0,16.51,MediaTek Helio G95,12499,realme narzo 30
+Infinix NOTE 12i,Alpine White,64,4.0,5000,50,8,0,17.02,Mediatek Helio G85,9999,infinix note 12i
+POCO X5 5G,Jaguar Black,256,8.0,5000,48,13,0,16.94,Qualcomm Snapdragon 695,17999,poco x5 5g
+realme 10,Rush Black,64,4.0,5000,50,16,0,16.26,Mediatek Helio G99 Octa Core,12499,realme 10
+realme 8i,Space Black,64,4.0,5000,50,16,0,16.76,MediaTek Helio G96,11499,realme 8i
+SAMSUNG Galaxy F14 5G,Omg Black,128,6.0,6000,50,13,0,16.76,"Exynos 1330, Octa Core",14490,samsung galaxy f14 5g
+REDMI A1+,Light Green,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,6299,redmi a1+
+realme Narzo 30,Racing Blue,128,6.0,5000,48,16,0,16.51,MediaTek Helio G95,12499,realme narzo 30
+Google Pixel 6a,Chalk,128,6.0,4410,12,8,0,15.6,Google Tensor,28999,google pixel 6a
+Google Pixel 6a,Charcoal,128,6.0,4410,12,8,0,15.6,Google Tensor,28999,google pixel 6a
+REDMI A1+,Black,32,2.0,5000,8,5,0,16.56,Mediatek Helio A22,6299,redmi a1+
+Infinix HOT 20 5G,Blaster Green,64,4.0,5000,50,8,1,16.76,Dimensity 810,11499,infinix hot 20 5g
+Infinix NOTE 12i,Metaverse Blue,64,4.0,5000,50,8,0,17.02,Mediatek Helio G85,9999,infinix note 12i
+realme GT 2,Steel Black,128,8.0,5000,50,16,0,16.81,Qualcomm Snapdragon 888,23999,realme gt 2
+realme GT 2,Paper White,128,8.0,5000,50,16,0,16.81,Qualcomm Snapdragon 888,23999,realme gt 2
+realme 10,Clash White,64,4.0,5000,50,16,0,16.26,Mediatek Helio G99 Octa Core,12499,realme 10
+REDMI Note 12,Sunrise Gold,64,6.0,5000,50,13,0,16.94,Snapdragon 685,14999,redmi note 12
+Infinix HOT 20 5G,Space Blue,64,4.0,5000,50,8,1,16.76,Dimensity 810,11499,infinix hot 20 5g
+REDMI Note 12 5G,Frosted Green,128,6.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,18999,redmi note 12 5g
+REDMI Note 12 5G,Matte Black,128,6.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,18999,redmi note 12 5g
+REDMI Note 12 5G,Mystique Blue,128,6.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,18999,redmi note 12 5g
+Infinix NOTE 12i,Force Black,64,4.0,5000,50,8,0,17.02,Mediatek Helio G85,9999,infinix note 12i
+REDMI Note 12 5G,Matte Black,128,4.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,16999,redmi note 12 5g
+REDMI Note 12 5G,Mystique Blue,128,4.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,16999,redmi note 12 5g
+Infinix HOT 20 5G,Racing Black,64,4.0,5000,50,8,1,16.76,Dimensity 810,11499,infinix hot 20 5g
+SAMSUNG Galaxy M04,Dark Blue,64,4.0,5000,13,5,0,16.51,MediaTek Helio P35,7961,samsung galaxy m04
+MOTOROLA Edge 40,Nebula Green,256,8.0,4400,50,32,0,16.64,Dimensity 8020,29999,motorola edge 40
+REDMI 11 Prime,Flashy Black,128,6.0,5000,50,8,0,16.71,Helio G99,11999,redmi 11 prime
+REDMI 11 Prime,Peppy Purple,128,6.0,5000,50,8,0,16.71,Helio G99,11999,redmi 11 prime
+REDMI K50i 5G,Stealth Black,256,8.0,5080,64,16,0,16.76,Dimensity 8100,23999,redmi k50i 5g
+MOTOROLA e40,Carbon Gray,64,4.0,5000,48,8,0,16.51,UNISOC T700,8999,motorola e40
+REDMI 9 Activ,Coral Green,128,6.0,5000,13,5,0,16.59,Mediatek Helio G35,9499,redmi 9 activ
+REDMI Note 12,Ice Blue,64,6.0,5000,50,13,0,16.94,Snapdragon 685,14999,redmi note 12
+SAMSUNG Galaxy F23 5G,Copper Blush,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,16999,samsung galaxy f23 5g
+MOTOROLA g42,Atlantic Green,64,4.0,5000,50,16,0,16.43,Qualcomm Snapdragon 680,11248,motorola g42
+realme C25s,Watery Grey,128,4.0,6000,13,8,0,16.51,MediaTek Helio G85,9999,realme c25s
+POCO X5 Pro 5G,Horizon Blue,256,8.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,23999,poco x5 pro 5g
+realme 8i,Space Purple,128,6.0,5000,50,16,0,16.76,MediaTek Helio G96,17999,realme 8i
+realme 10,Clash White,128,8.0,5000,50,16,0,16.26,Mediatek Helio G99 Octa Core,15499,realme 10
+MOTOROLA e13,Cosmic Black,64,2.0,5000,13,5,0,16.51,Unisoc T606,6799,motorola e13
+SAMSUNG Galaxy F23 5G,Forest Green,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,16999,samsung galaxy f23 5g
+POCO M3 Pro 5G,Yellow,128,6.0,5000,48,8,0,16.51,MediaTek Dimensity 700,14499,poco m3 pro 5g
+Infinix Smart 6 HD,Force Black,32,2.0,5000,8,5,0,16.76,Mediatek Helio A22,5999,infinix smart 6 hd
+Infinix Smart 6 HD,Aqua Sky,32,2.0,5000,8,5,0,16.76,Mediatek Helio A22,5999,infinix smart 6 hd
+Infinix Smart 6 HD,Origin Blue,32,2.0,5000,8,5,0,16.76,Mediatek Helio A22,5999,infinix smart 6 hd
+POCO X5 Pro 5G,Astral Black,256,8.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,23999,poco x5 pro 5g
+REDMI Note 12 5G,Frosted Green,128,4.0,5000,48,13,0,16.94,Qualcomm Snapdragon 4 Gen 1,16999,redmi note 12 5g
+REDMI Note 12,Lunar Black,64,6.0,5000,50,13,0,16.94,Snapdragon 685,14999,redmi note 12
+Infinix Hot 20 5G,Blaster Green,128,6.0,5000,50,8,1,16.76,Dimensity 810,13499,infinix hot 20 5g
+realme C31,Dark Green,64,4.0,5000,13,5,0,16.56,Unisoc T612,8749,realme c31
+realme C31,Light Silver,32,3.0,5000,13,5,0,16.56,Unisoc T612,8049,realme c31
+OPPO A17,Lake Blue,64,4.0,5000,50,5,0,16.66,Mediatek Helio G35,12499,oppo a17
+realme 9 5G SE,Azure Glow,128,8.0,5000,48,16,0,16.76,Qualcomm Snapdragon 778G,17999,realme 9 5g se
+realme 9 5G SE,Starry Glow,128,8.0,5000,48,16,0,16.76,Qualcomm Snapdragon 778G,17999,realme 9 5g se
+realme 9i 5G,Soulful Blue,128,6.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,16999,realme 9i 5g
+realme 9i 5G,Rocking Black,64,4.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,14999,realme 9i 5g
+POCO M4 Pro,Cool Blue,128,8.0,5000,64,16,0,16.33,Mediatek Helio G96,13999,poco m4 pro
+realme C33 2023,Sandy Gold,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33 2023
+realme C33 2023,Aqua Blue,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33 2023
+realme C33 2023,Night Sea,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33 2023
+realme C31,Dark Green,32,3.0,5000,13,5,0,16.56,Unisoc T612,8049,realme c31
+Infinix Hot 20 5G,Space Blue,128,6.0,5000,50,8,1,16.76,Dimensity 810,13499,infinix hot 20 5g
+realme 9i 5G,Metallica Gold,128,6.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,16999,realme 9i 5g
+realme 9i 5G,Rocking Black,128,6.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,16999,realme 9i 5g
+realme 9i 5G,Soulful Blue,64,4.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,14999,realme 9i 5g
+realme C21Y,Cross Black,32,3.0,5000,13,5,0,16.51,Unisoc T610,7499,realme c21y
+realme Narzo 50i Prime,Dark Blue,32,3.0,5000,8,5,0,16.51,Unisoc T612 processor,7245,realme narzo 50i prime
+POCO X5 5G,Wildcat Blue,256,8.0,5000,48,13,0,16.94,Qualcomm Snapdragon 695,17999,poco x5 5g
+REDMI Note 12 Pro 5G,Stardust Purple,256,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,26999,redmi note 12 pro 5g
+REDMI Note 12 Pro 5G,Stardust Purple,128,6.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,23999,redmi note 12 pro 5g
+realme C31,Light Silver,64,4.0,5000,13,5,0,16.56,Unisoc T612,8749,realme c31
+POCO X5 Pro 5G,Horizon Blue,128,6.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,21999,poco x5 pro 5g
+Infinix Zero 5G 2023,Submariner Black,128,8.0,5000,50,16,0,17.22,Mediatek Dimensity 920,15999,infinix zero 5g 2023
+POCO X4 Pro 5G,Yellow,128,6.0,5000,64,16,0,16.94,Qualcomm Snapdragon 695 5G,17499,poco x4 pro 5g
+MOTOROLA g82 5G,Meterorite Grey,128,8.0,5000,50,16,0,16.76,Qualcomm Snapdragon 695 5G,21499,motorola g82 5g
+realme 9i 5G,Metallica Gold,64,4.0,5000,50,8,0,16.76,Mediatek Dimensity 810 5G,14999,realme 9i 5g
+REDMI Note 12 Pro+ 5G,Iceberg Blue,256,8.0,4980,200,16,0,16.94,Mediatek Dimensity 1080,29999,redmi note 12 pro+ 5g
+vivo T1 44W,Midnight Galaxy,128,8.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,17999,vivo t1 44w
+vivo T1 44W,Ice Dawn,128,8.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,17999,vivo t1 44w
+vivo T1 44W,Starry Sky,128,6.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,15999,vivo t1 44w
+vivo T1 44W,Midnight Galaxy,128,4.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,14499,vivo t1 44w
+vivo T1 44W,Ice Dawn,128,6.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,15999,vivo t1 44w
+MOTOROLA g82 5G,White Lily,128,8.0,5000,50,16,0,16.76,Qualcomm Snapdragon 695 5G,21499,motorola g82 5g
+MOTOROLA g31,Baby Blue,128,6.0,5000,50,13,0,16.26,Mediatek Helio G85,12999,motorola g31
+REDMI Note 12 Pro+ 5G,Obsidian Black,256,8.0,4980,200,16,0,16.94,Mediatek Dimensity 1080,29999,redmi note 12 pro+ 5g
+realme narzo 50i Prime,Mint Green,32,3.0,5000,8,5,0,16.51,Unisoc Tiger T612 (12 nm),7115,realme narzo 50i prime
+MOTOROLA e13,Aurora Green,64,2.0,5000,13,5,0,16.51,Unisoc T606,6799,motorola e13
+REDMI Note 12 Pro 5G,Glacier Blue,128,6.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,23999,redmi note 12 pro 5g
+vivo T1 44W,Starry Sky,128,4.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,14499,vivo t1 44w
+SAMSUNG Galaxy S22 Plus 5G,Phantom Black,128,8.0,4500,50,10,0,16.76,Qualcomm Snapdragon 8 Gen 1,49999,samsung galaxy s22 plus 5g
+Infinix Zero 5G 2023,Pearly White,128,8.0,5000,50,16,0,17.22,Mediatek Dimensity 920,15999,infinix zero 5g 2023
+POCO X5 Pro 5G,Yellow,256,8.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,23999,poco x5 pro 5g
+vivo V27 5G,Noble Black,128,8.0,4600,50,50,0,17.22,Mediatek Dimensity 7200 5G,32999,vivo v27 5g
+realme Narzo 50,Speed Blue,64,4.0,5000,50,16,0,16.76,Mediatek Helio G96,12999,realme narzo 50
+Infinix HOT 20 Play,Fantasy Purple,64,4.0,6000,13,8,1,17.32,MediaTek G37,8499,infinix hot 20 play
+Infinix HOT 20 Play,Aurora Green,64,4.0,6000,13,8,1,17.32,MediaTek G37,8499,infinix hot 20 play
+Infinix HOT 20 Play,Luna Blue,64,4.0,6000,13,8,1,17.32,MediaTek G37,8499,infinix hot 20 play
+Infinix HOT 20 Play,Racing Black,64,4.0,6000,13,8,1,17.32,MediaTek G37,8499,infinix hot 20 play
+realme Narzo 50,Speed Blue,128,6.0,5000,50,16,0,16.76,Mediatek Helio G96,12999,realme narzo 50
+POCO X5 5G,Supernova Green,256,8.0,5000,48,13,0,16.94,Qualcomm Snapdragon 695,17999,poco x5 5g
+MOTOROLA g52,Charcoal Grey,128,6.0,5000,50,16,0,16.76,Qualcomm Snapdragon 680,13999,motorola g52
+vivo T1 44W,Starry Sky,128,8.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,17999,vivo t1 44w
+vivo T1 44W,Midnight Galaxy,128,6.0,5000,50,16,0,16.36,Qualcomm Snapdragon 680,15999,vivo t1 44w
+realme Narzo 50,Speed Black,128,6.0,5000,50,16,0,16.76,Mediatek Helio G96,12999,realme narzo 50
+OPPO A17k,Blue,64,3.0,5000,8,5,0,16.66,Mediatek Helio P35,9499,oppo a17k
+REDMI Note 12 Pro 5G,Stardust Purple,128,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,25999,redmi note 12 pro 5g
+vivo V27 5G,Magic Blue,128,8.0,4600,50,50,0,17.22,Mediatek Dimensity 7200 5G,32999,vivo v27 5g
+realme C25s,Watery Blue,128,4.0,6000,13,8,0,16.51,MediaTek Helio G85,10999,realme c25s
+Infinix Zero 5G 2023,Coral Orange,128,8.0,5000,50,16,0,17.22,Mediatek Dimensity 920,15999,infinix zero 5g 2023
+POCO F5 5G,Snowstorm White,256,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),29999,poco f5 5g
+redmi max,Unknown,16,2.0,5000,13,5,0,15.46,Octa Core,4999,redmi max
+REDMI 10,Midnight Black,128,6.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,10999,redmi 10
+OPPO A17,Lake Blue,64,4.0,5000,50,5,0,16.66,Mediatek Helio G35,11970,oppo a17
+REDMI Note 12,Sunrise Gold,128,6.0,5000,50,13,0,16.94,Snapdragon 685,16999,redmi note 12
+REDMI 11 Prime,Playful Green,128,6.0,5000,50,8,0,16.71,Helio G99,11999,redmi 11 prime
+REDMI Note 12 Pro 5G,Onyx Black,128,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,25999,redmi note 12 pro 5g
+Micromax IN 2C,Silver,32,3.0,5000,8,5,0,16.56,Unisoc T610,5999,micromax in 2c
+REDMI Note 12 Pro+ 5G,Arctic White,256,8.0,4980,200,16,0,16.94,Mediatek Dimensity 1080,29999,redmi note 12 pro+ 5g
+REDMI Note 12,Lunar Black,128,6.0,5000,50,13,0,16.94,Snapdragon 685,16999,redmi note 12
+OPPO A17,Sunlight Orange,64,4.0,5000,50,5,0,16.66,Mediatek Helio G35,12499,oppo a17
+OPPO A17,Midnight Black,64,4.0,5000,50,5,0,16.66,Mediatek Helio G35,12499,oppo a17
+POCO X5 Pro 5G,Yellow,128,6.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,21999,poco x5 pro 5g
+realme 9 Pro+ 5G,Aurora Green,256,8.0,4500,50,16,0,16.26,Mediatek Dimensity 920,21999,realme 9 pro+ 5g
+realme 9 Pro+ 5G,Midnight Black,256,8.0,4500,50,16,0,16.26,Mediatek Dimensity 920,21999,realme 9 pro+ 5g
+REDMI 11 Prime,Playful Green,64,4.0,5000,50,8,0,16.71,Helio G99,9999,redmi 11 prime
+REDMI Note 12 Pro 5G,Glacier Blue,256,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,26999,redmi note 12 pro 5g
+REDMI Note 12 Pro 5G,Onyx Black,128,6.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,23999,redmi note 12 pro 5g
+REDMI Note 12,Ice Blue,128,6.0,5000,50,13,0,16.94,Snapdragon 685,16999,redmi note 12
+realme Narzo 30,Racing Silver,64,4.0,5000,48,16,0,16.51,MediaTek Helio G95,13499,realme narzo 30
+POCO X5 Pro 5G,Astral Black,128,6.0,5000,108,16,0,16.94,Qualcomm Snapdragon 778G,21999,poco x5 pro 5g
+Infinix Hot 12,Exploratory Blue,64,4.0,6000,50,8,1,17.32,Meditek Helio G37,8999,infinix hot 12
+Infinix Hot 12,Polar Black,64,4.0,6000,50,8,1,17.32,Meditek Helio G37,8999,infinix hot 12
+Infinix Hot 12,7° Purple,64,4.0,6000,50,8,1,17.32,Meditek Helio G37,8999,infinix hot 12
+Infinix Hot 12,Turquoise Cyan,64,4.0,6000,50,8,1,17.32,Meditek Helio G37,8999,infinix hot 12
+REDMI Note 12 Pro+ 5G,Iceberg Blue,256,,4980,200,16,0,16.94,Mediatek Dimensity 1080,32999,redmi note 12 pro+ 5g
+MOTOROLA G32,Mineral Gray,64,4.0,5000,50,16,0,16.64,Qualcomm Snapdragon 680,10999,motorola g32
+MOTOROLA g72,Meteorite Grey,128,6.0,5000,108,16,0,16.64,Mediatek Helio G99,16999,motorola g72
+Micromax IN 2C,Brown,32,3.0,5000,8,5,0,16.56,Unisoc T610,5999,micromax in 2c
+vivo Y16,Drizzling Gold,128,4.0,5000,13,5,0,16.54,Mediatek Helio P35,12990,vivo y16
+MOTOROLA Edge 40,Lunar Blue,256,8.0,4400,50,32,0,16.64,Dimensity 8020,29999,motorola edge 40
+POCO X4 Pro 5G,Yellow,64,6.0,5000,64,16,0,16.94,Qualcomm Snapdragon 695 5G,16499,poco x4 pro 5g
+POCO F5 5G,Carbon Black,256,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),29999,poco f5 5g
+realme 9 Pro+ 5G,Sunrise Blue,256,8.0,4500,50,16,0,16.26,Mediatek Dimensity 920,21999,realme 9 pro+ 5g
+realme Narzo 50i,Carbon Black,32,2.0,5000,8,5,0,16.51,SC9863A,6978,realme narzo 50i
+realme Narzo 50i,Mint Green,32,2.0,5000,8,5,0,16.51,SC9863A,7370,realme narzo 50i
+REDMI Note 12 Pro+ 5G,Arctic White,256,,4980,200,16,0,16.94,Mediatek Dimensity 1080,32999,redmi note 12 pro+ 5g
+MOTOROLA e13,Creamy White,64,2.0,5000,13,5,0,16.51,Unisoc T606,6799,motorola e13
+SAMSUNG Galaxy F23 5G,Forest Green,128,4.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,15999,samsung galaxy f23 5g
+SAMSUNG Galaxy Z Flip3 5G,Phantom Black,128,8.0,3300,12,10,0,17.02,Qualcomm Snapdragon 888 Octa-Core,44999,samsung galaxy z flip3 5g
+POCO M4 Pro 5G,Cool Blue,128,6.0,5000,50,16,0,16.76,Mediatek Dimensity 810,16999,poco m4 pro 5g
+MOTOROLA g42,Atlantic Green,64,4.0,5000,50,16,0,16.43,Qualcomm Snapdragon 680,13999,motorola g42
+POCO M4 5G,Cool Blue,128,6.0,5000,50,8,0,16.71,Mediatek Dimensity 700,13999,poco m4 5g
+realme C33,Night Sea,32,3.0,5000,50,5,0,16.51,Unisoc T612,8999,realme c33
+realme C33,Aqua Blue,32,3.0,5000,50,5,0,16.51,Unisoc T612,8999,realme c33
+realme Narzo 50i Prime,Dark Blue,64,4.0,5000,8,5,0,16.51,Unisoc T612 processor,8995,realme narzo 50i prime
+Infinix Zero 20,Green Fantasy,128,8.0,4500,108,60,0,17.02,Mediatek G99,15999,infinix zero 20
+Infinix Zero 20,Deep Gray,128,8.0,4500,108,60,0,17.02,Mediatek G99,15999,infinix zero 20
+realme 8,Punk Black,128,4.0,5000,64,16,0,16.26,MediaTek Helio G95,13499,realme 8
+realme C33,Night Sea,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33
+realme C33,Sandy Gold,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33
+realme C33,Aqua Blue,64,4.0,5000,50,5,0,16.51,Unisoc T612,9999,realme c33
+realme 8,Cyber Black,128,8.0,5000,64,16,0,16.26,MediaTek Helio G95,15499,realme 8
+vivo Y35,Dawn Gold,128,8.0,5000,50,16,0,16.71,Qualcomm Snapdragon 680,16999,vivo y35
+vivo Y35,Agate Black,128,8.0,5000,50,16,0,16.71,Qualcomm Snapdragon 680,16999,vivo y35
+MOTOROLA Edge 30,Aurora Green,128,8.0,4020,50,32,0,16.64,Qualcomm Snapdragon 778G Plus,24999,motorola edge 30
+MOTOROLA g72,Polar Blue,128,6.0,5000,108,16,0,16.64,Mediatek Helio G99,16999,motorola g72
+MOTOROLA g52,Charcoal Grey,64,4.0,5000,50,16,0,16.76,Qualcomm Snapdragon 680,11249,motorola g52
+MOTOROLA Edge 30 Fusion,Cosmic Grey,128,8.0,4400,50,32,0,16.64,Qualcomm Snapdragon 888 +,34999,motorola edge 30 fusion
+REDMI K50i 5G,Quick Silver,128,6.0,5080,64,16,0,16.76,Dimensity 8100,21174,redmi k50i 5g
+Infinix Note 12,Force Black,64,4.0,5000,50,16,1,17.02,MediaTek Helio G88,10999,infinix note 12
+Google Pixel 7a,Sea,128,8.0,4300,64,13,0,15.49,Tensor G2,43999,google pixel 7a
+Google Pixel 7a,Charcoal,128,8.0,4300,64,13,0,15.49,Tensor G2,43999,google pixel 7a
+Tecno Spark 9,Infinity Black,64,4.0,5000,13,8,0,16.76,MediaTek Helio G37,7993,tecno spark 9
+Tecno Spark 9,Sky Mirror,64,4.0,5000,13,8,0,16.76,MediaTek Helio G37,8069,tecno spark 9
+MOTOROLA Edge 30,Meteor Grey,128,8.0,4020,50,32,0,16.64,Qualcomm Snapdragon 778G Plus,24999,motorola edge 30
+OPPO Reno8T 5G,Sunrise Gold,128,8.0,4800,108,32,0,17.02,Qualcomm Snapdragon 695,29999,oppo reno8t 5g
+SAMSUNG Galaxy A14 5G,Dark Red,64,4.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),16499,samsung galaxy a14 5g
+MOTOROLA g13,Matte Charcoal,64,4.0,5000,50,8,0,16.51,Helio G85,9499,motorola g13
+REDMI Note 12 Pro 5G,Glacier Blue,128,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,25999,redmi note 12 pro 5g
+POCO F5 5G,Electric Blue,256,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),29999,poco f5 5g
+SAMSUNG Galaxy A14 5G,Black,128,6.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),18999,samsung galaxy a14 5g
+OPPO Reno8T 5G,Midnight Black,128,8.0,4800,108,32,0,17.02,Qualcomm Snapdragon 695,29999,oppo reno8t 5g
+SAMSUNG Galaxy A14 5G,Light Green,128,6.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),18999,samsung galaxy a14 5g
+Infinix Note 12,Force Black,128,6.0,5000,50,16,1,17.02,MediaTek Helio G88,12999,infinix note 12
+SAMSUNG Galaxy F23 5G,Aqua Blue,128,4.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,15999,samsung galaxy f23 5g
+POCO C31,Shadow Gray,64,4.0,5000,13,5,0,16.59,MediaTek Helio G35,8999,poco c31
+REDMI 10,Pacific Blue,64,4.0,6000,50,5,0,17.02,Qualcomm Snapdragon 680,9499,redmi 10
+POCO X2,Atlantis Blue,64,6.0,4500,64,20,0,16.94,Qualcomm Snapdragon 730G,17999,poco x2
+POCO F5 5G,Snowstorm White,256,6.0,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),32999,poco f5 5g
+Google Pixel 7a,Snow,128,8.0,4300,64,13,0,15.49,Tensor G2,43999,google pixel 7a
+nothing phone 1,White,128,8.0,4500,50,16,0,16.64,Qualcomm Snapdragon 778G+,30499,nothing phone 1
+nothing phone 1,Chalk,128,8.0,4500,50,16,0,16.64,Qualcomm Snapdragon 778G+,30999,nothing phone 1
+I Kall Z19Pro,Flash Blue,64,4.0,5000,13,8,0,16.51,Octa Core,7999,i kall z19pro
+MOTOROLA G32,Satin Silver,64,4.0,5000,50,16,0,16.64,Qualcomm Snapdragon 680,10999,motorola g32
+Tecno Spark 9T,Turquoise Cyan,64,4.0,5000,50,8,0,16.76,MediaTek Helio G35,9290,tecno spark 9t
+POCO M4 Pro 5G,Yellow,64,4.0,5000,50,16,0,16.76,Mediatek Dimensity 810,14999,poco m4 pro 5g
+Tecno Spark 9T,Iris Purple,64,4.0,5000,50,8,0,16.76,MediaTek Helio G35,8449,tecno spark 9t
+Infinix Zero 5G 2023 TURBO,Pearly White,256,8.0,5000,50,16,0,17.22,Mediatek Dimensity 1080,17999,infinix zero 5g 2023 turbo
+Tecno Spark 9T,Tahiti Gold,64,4.0,5000,50,8,0,16.76,MediaTek Helio G35,8495,tecno spark 9t
+Infinix Zero 5G 2023 TURBO,Submariner Black,256,8.0,5000,50,16,0,17.22,Mediatek Dimensity 1080,17999,infinix zero 5g 2023 turbo
+I Kall Z19Pro,Blue,64,4.0,5000,13,8,0,16.51,Octa Core,7999,i kall z19pro
+vivo Y16,Steller Black,64,4.0,5000,13,5,0,16.54,Mediatek Helio P35,11999,vivo y16
+vivo Y16,Drizzling Gold,64,3.0,5000,13,5,0,16.54,Mediatek Helio P35,10499,vivo y16
+vivo Y16,Steller Black,128,4.0,5000,13,5,0,16.54,Mediatek Helio P35,12999,vivo y16
+nothing phone 1,Black,128,8.0,4500,50,16,0,16.64,Qualcomm Snapdragon 778G+,29499,nothing phone 1
+REDMI K50i 5G,Stealth Black,128,6.0,5080,64,16,0,16.76,Dimensity 8100,20998,redmi k50i 5g
+REDMI K50i 5G,Quick Silver,256,8.0,5080,64,16,0,16.76,Dimensity 8100,23999,redmi k50i 5g
+OPPO A78 5G,Glowing Black,128,8.0,5000,13,5,0,16.66,Android,19280,oppo a78 5g
+Tecno Spark 9T,Atlantic Blue,64,4.0,5000,50,8,0,16.76,MediaTek Helio G35,8649,tecno spark 9t
+Infinix Zero 5G 2023 TURBO,Coral Orange,256,8.0,5000,50,16,0,17.22,Mediatek Dimensity 1080,17999,infinix zero 5g 2023 turbo
+vivo Y16,Steller Black,64,3.0,5000,13,5,0,16.54,Mediatek Helio P35,10999,vivo y16
+POCO X4 Pro 5G,Laser Black,128,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 695 5G,19499,poco x4 pro 5g
+realme Narzo 50i,Carbon Black,64,4.0,5000,8,5,0,16.51,SC9863A,9349,realme narzo 50i
+Tecno Spark Go 2023,Endless Black,64,4.0,5000,13,5,0,16.66,"2GHz, Quad Core",8288,tecno spark go 2023
+REDMI 10 Prime 2022,Astral White,64,4.0,6000,50,13,0,16.51,Helio G88,12272,redmi 10 prime 2022
+Tecno Spark Go 2023,Endless Black,32,3.0,5000,13,5,0,16.66,"2GHz, Quad Core",6794,tecno spark go 2023
+SAMSUNG Galaxy A23 5G,Light Blue,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 695 (SM6375),21999,samsung galaxy a23 5g
+SAMSUNG Galaxy A14 5G,Dark Red,128,6.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),18999,samsung galaxy a14 5g
+REDMI Note 12 Pro+ 5G,Obsidian Black,256,,4980,200,16,0,16.94,Mediatek Dimensity 1080,32999,redmi note 12 pro+ 5g
+realme C35,Glowing Black,64,4.0,5000,50,8,0,16.76,Unisoc Tiger T616,9699,realme c35
+realme C35,Glowing Black,128,4.0,5000,50,8,0,16.76,Unisoc Tiger T616,10699,realme c35
+MOTOROLA g22,Cosmic Black,64,4.0,5000,50,16,0,16.51,Mediatek Helio G37,10999,motorola g22
+itel A60,Vertmenthe,32,2.0,5000,8,5,0,16.76,Unisoc,5999,itel a60
+vivo Y16,Drizzling Gold,64,4.0,5000,13,5,0,16.54,Mediatek Helio P35,11999,vivo y16
+vivo V23 5G,Stardust Black,256,,4200,64,50,0,16.36,Mediatek Dimensity 920,27540,vivo v23 5g
+OnePlus Nord 2T 5G,Gray Shadow,128,8.0,4500,50,32,0,17.02,Oxygen OS,27877,oneplus nord 2t 5g
+SAMSUNG Galaxy A23 5G,Orange,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 695 (SM6375),21999,samsung galaxy a23 5g
+itel A60,Sapphireblack,32,2.0,5000,8,5,0,16.76,Unisoc,5990,itel a60
+itel A60,Dawnblue,32,2.0,5000,8,5,0,16.76,Unisoc,5999,itel a60
+REDMI K50i 5G,Phantom Blue,128,6.0,5080,64,16,0,16.76,Dimensity 8100,21499,redmi k50i 5g
+POCO M4 Pro 5G,Cool Blue,128,8.0,5000,50,16,0,16.76,Mediatek Dimensity 810,15999,poco m4 pro 5g
+MOTOROLA G42,Metallic Rose,64,4.0,5000,50,16,0,16.43,Qualcomm Snapdragon 680,11980,motorola g42
+Infinix Smart 6,Starry Purple,64,2.0,5000,8,5,0,16.76,Mediatek Helio A22,6999,infinix smart 6
+Infinix Smart 6,Heart Of Ocean,64,2.0,5000,8,5,0,16.76,Mediatek Helio A22,6999,infinix smart 6
+Infinix Smart 6,Light Sea Green,64,2.0,5000,8,5,0,16.76,Mediatek Helio A22,6999,infinix smart 6
+Infinix Smart 6,Polar Black,64,2.0,5000,8,5,0,16.76,Mediatek Helio A22,6999,infinix smart 6
+realme 10 Pro+ 5G,Nebula Blue,128,8.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,23999,realme 10 pro+ 5g
+realme 9i,Prism Blue,64,4.0,5000,50,16,0,16.76,Qualcomm Snapdragon 680 (SM6225),11999,realme 9i
+realme 9i,Prism Black,128,4.0,5000,50,16,0,16.76,Qualcomm Snapdragon 680 (SM6225),13499,realme 9i
+SAMSUNG Galaxy A14 5G,Light Green,64,4.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),16499,samsung galaxy a14 5g
+SAMSUNG Galaxy A34 5G,Awesome Graphite,256,8.0,5000,48,13,0,16.76,"Dimensity 1080, Octa Core",32999,samsung galaxy a34 5g
+realme Narzo N55,Prime Blue,64,4.0,5000,64,8,0,17.07,Mediatek Helio G88,11349,realme narzo n55
+SAMSUNG Galaxy A34 5G,Awesome Silver,128,8.0,5000,48,13,0,16.76,"Dimensity 1080, Octa Core",30999,samsung galaxy a34 5g
+OPPO A17k,Navy Blue,64,3.0,5000,8,5,0,16.66,Mediatek Helio P35,9499,oppo a17k
+OPPO A17K,Navy Blue,64,3.0,5000,8,5,0,16.66,Mediatek Helio G35,9790,oppo a17k
+OPPO A17k,Gold,64,3.0,5000,8,5,0,16.66,Mediatek Helio P35,9499,oppo a17k
+OnePlus Nord 2T 5G,Jade Fog,128,8.0,4500,50,32,0,17.02,Oxygen OS,28298,oneplus nord 2t 5g
+realme 10 Pro+ 5G,Dark Matter,128,8.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,23999,realme 10 pro+ 5g
+realme 10 Pro+ 5G,Hyperspace,128,8.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,23999,realme 10 pro+ 5g
+realme 10 Pro+ 5G,Nebula Blue,128,6.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,22999,realme 10 pro+ 5g
+realme 10 Pro+ 5G,Hyperspace,128,6.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,22999,realme 10 pro+ 5g
+realme 10 Pro+ 5G,Dark Matter,128,6.0,5000,108,16,0,17.02,Mediatek Dimensity 1080 5G,22999,realme 10 pro+ 5g
+POCO M4 Pro,Power Black,128,8.0,5000,64,16,0,16.33,Mediatek Helio G96,13999,poco m4 pro
+Tecno Pop 5 Pro,Ice Blue,32,3.0,6000,8,5,0,16.56,Helio A22,7049,tecno pop 5 pro
+Tecno Pop 5 Pro,Deepsea Luster,32,3.0,6000,8,5,0,16.56,Helio A22,6960,tecno pop 5 pro
+SAMSUNG Galaxy M04,Dark Blue,128,4.0,5000,13,5,0,16.51,MediaTek Helio P35,9104,samsung galaxy m04
+vivo V27 5G,Magic Blue,256,,4600,50,50,0,17.22,Mediatek Dimensity 7200 5G,36999,vivo v27 5g
+REDMI 9 Activ,Carbon Black,128,6.0,5000,13,5,0,16.59,Mediatek Helio G35,9499,redmi 9 activ
+OPPO A77s,Sunset Orange,128,8.0,5000,50,8,0,16.66,Qualcomm Snapdragon 680,16499,oppo a77s
+realme C30s,Stripe Blue,32,2.0,5000,8,5,0,16.51,Unisoc SC9863A/ Unisoc SC9863A1,6999,realme c30s
+MOTOROLA Edge 30 Ultra,Interstellar Black,256,,4610,200,60,0,16.94,Qualcomm Snapdragon 8+ Gen 1,49999,motorola edge 30 ultra
+SAMSUNG Galaxy A23 5G,Silver,128,6.0,5000,50,8,0,16.76,Qualcomm Snapdragon 695 (SM6375),21999,samsung galaxy a23 5g
+SAMSUNG Galaxy A14 5G,Dark Red,128,8.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),20999,samsung galaxy a14 5g
+SAMSUNG Galaxy A34 5G,Awesome Graphite,128,8.0,5000,48,13,0,16.76,"Dimensity 1080, Octa Core",30999,samsung galaxy a34 5g
+IQOO Neo 7 5G,Frost Blue,128,8.0,5000,64,16,0,17.22,Snapdragon 8 Gen 1,30385,iqoo neo 7 5g
+vivo Y56 5G,Black Engine,128,8.0,5000,50,16,0,16.71,Mediatek Dimensity 700,19999,vivo y56 5g
+Infinix Note 12 5G,Snowfall,64,6.0,5000,50,16,1,17.02,Mediatek Dimensity 810 5G,14999,infinix note 12 5g
+Infinix HOT 12 Play,Racing Black,64,4.0,6000,13,8,0,17.32,Unisoc T610,8999,infinix hot 12 play
+POCO F5 5G,Electric Blue,256,,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),32999,poco f5 5g
+vivo Y75,Dancing Waves,128,8.0,4050,50,44,0,16.36,Mediatek G96,19990,vivo y75
+realme C30s,Stripe Black,32,2.0,5000,8,5,0,16.51,Unisoc SC9863A/ Unisoc SC9863A1,6999,realme c30s
+POCO X4 Pro 5G,Laser Blue,128,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 695 5G,19499,poco x4 pro 5g
+realme Narzo 50A Prime,Flash Blue,128,4.0,5000,50,8,0,16.76,Unisoc T612,12900,realme narzo 50a prime
+SAMSUNG Galaxy A14 5G,Black,64,4.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),16499,samsung galaxy a14 5g
+Tecno Spark 9,Sky Mirror,64,3.0,5000,13,8,0,16.76,MediaTek Helio G37,8990,tecno spark 9
+realme NARZO 50A PRIME,Flash Blue,64,4.0,5000,50,8,0,16.76,Unisoc T612,10943,realme narzo 50a prime
+Google Pixel 7,Snow,128,8.0,4270,50,8,0,16.0,Google Tensor G2,55999,google pixel 7
+Google Pixel 7,Obsidian,128,8.0,4270,50,8,0,16.0,Google Tensor G2,55999,google pixel 7
+POCO F1,Steel Blue,64,6.0,4000,12,20,0,15.7,Qualcomm Snapdragon 845,13489,poco f1
+MOTOROLA Edge 30 Fusion,Solar Gold,128,8.0,4400,50,32,0,16.64,Qualcomm Snapdragon 888 +,34999,motorola edge 30 fusion
+POCO F5 5G,Carbon Black,256,8.0,5000,64,16,0,16.94,Qualcomm Snapdragon 7+ Gen 2 (4nm),32999,poco f5 5g
+vivo Y12G,Phantom Black,64,3.0,5000,13,8,0,16.54,Qualcomm Snapdragon 439,11209,vivo y12g
+REDMI Note 12 Pro 5G,Onyx Black,256,8.0,5000,50,16,0,16.94,Mediatek Dimensity 1080,26999,redmi note 12 pro 5g
+realme C30s,Stripe Black,64,4.0,5000,8,5,0,16.51,Unisoc SC9863A/ Unisoc SC9863A1,8499,realme c30s
+SAMSUNG Galaxy A14 5G,Black,128,8.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),20999,samsung galaxy a14 5g
+Google Pixel 7,Lemongrass,128,8.0,4270,50,8,0,16.0,Google Tensor G2,55999,google pixel 7
+SAMSUNG Galaxy A23,Black,128,6.0,5000,50,8,0,16.76,Octa-core(EXYNOS),17499,samsung galaxy a23
+vivo Y56 5G,Orange Shimmer,128,8.0,5000,50,16,0,16.71,Mediatek Dimensity 700,19999,vivo y56 5g
+vivo Y56 5G,Black Engine,128,4.0,5000,50,16,0,16.71,Mediatek Dimensity 700,17999,vivo y56 5g
+realme Narzo 50A,Oxygen Blue,64,4.0,6000,50,8,0,16.51,MediaTek Helio G85,11499,realme narzo 50a
+vivo Y75,Moonlight Shadow,128,8.0,4050,50,44,0,16.36,Mediatek G96,16988,vivo y75
+vivo Y16,Stellar Black,128,4.0,5000,13,5,0,16.54,Mediatek Helio P35,12989,vivo y16
+MOTOROLA g52,Metallic White,128,6.0,5000,50,16,0,16.76,Qualcomm Snapdragon 680,13999,motorola g52
+vivo Y100 5G,Pacific Blue,128,8.0,4500,64,16,0,16.21,Mediatek Dimensity 900,23999,vivo y100 5g
+Redmi 9A Sport,Coral Green,32,2.0,5000,13,5,0,16.59,Helio G25,7190,redmi 9a sport
+Redmi 9A Sport,Coral Green,32,3.0,5000,13,5,0,16.59,Helio G25,7990,redmi 9a sport
+SAMSUNG Galaxy A14 5G,Light Green,128,8.0,5000,50,13,0,16.76,SEC S5E8535 (Exynos 1330),20999,samsung galaxy a14 5g
+REDMI Note 11,Horizon Blue,64,4.0,5000,50,13,0,16.33,Snapdragon 680,12990,redmi note 11
+vivo V25 5G,Elegant Black,128,8.0,4500,64,50,0,16.36,Mediatek Dimensity 900,27999,vivo v25 5g
+SAMSUNG Galaxy A34 5G,Awesome Violet,256,8.0,5000,48,13,0,16.76,"Dimensity 1080, Octa Core",32999,samsung galaxy a34 5g
+Infinix Note 12 5G,Force Black,64,6.0,5000,50,16,1,17.02,Mediatek Dimensity 810 5G,14999,infinix note 12 5g
+MOTOROLA g42,Metallic Rose,64,4.0,5000,50,16,0,16.43,Qualcomm Snapdragon 680,13999,motorola g42
+SAMSUNG Galaxy A34 5G,Awesome Violet,128,8.0,5000,48,13,0,16.76,"Dimensity 1080, Octa Core",30999,samsung galaxy a34 5g
+SAMSUNG Galaxy S21 FE 5G,Olive Green,128,8.0,4500,12,32,0,16.26,snapdragon 888,32999,samsung galaxy s21 fe 5g
+REDMI Note 11T 5G,Stardust White,128,8.0,5000,50,16,0,16.76,Mediatek Dimensity 810,19397,redmi note 11t 5g
+vivo V25 5G,Surfing Blue,128,8.0,4500,64,50,0,16.36,Mediatek Dimensity 900,27999,vivo v25 5g
+vivo Y16,Steller Black,32,3.0,5000,13,5,0,16.54,Mediatek Helio P35,10989,vivo y16
+vivo Y16,Drizzling Gold,32,3.0,5000,13,5,0,16.54,Mediatek Helio P35,10989,vivo y16
+realme X3 SuperZoom,Glacier Blue,256,,4200,64,16,0,16.69,Qualcomm Snapdragon 855,17999,realme x3 superzoom
+OPPO F21 Pro,Sunset Orange,128,8.0,4500,64,32,0,16.33,Qualcomm Snapdragon 680,20999,oppo f21 pro
+REDMI Note 11S,Space Black,128,6.0,5000,108,16,0,16.33,Mediatek Dimensity 810,16990,redmi note 11s
+Infinix HOT 12 Play,Horizon Blue,64,4.0,6000,13,8,0,17.32,Unisoc T610,8999,infinix hot 12 play
+vivo V23 5G,Stardust Black,128,8.0,4200,64,16,0,16.36,Mediatek Dimensity 920,29990,vivo v23 5g
+OnePlus 8,Interstellar Glow,256,8.0,4300,48,32,0,16.64,Qualcomm Snapdragon 865,38920,oneplus 8
+vivo Y1s,Aurora Blue,32,3.0,4030,13,5,0,15.8,MediaTek Helio P35,9387,vivo y1s
+OnePlus 8,Glacial Green,128,6.0,4300,48,16,0,16.64,Qualcomm Snapdragon 865,29790,oneplus 8
+OnePlus Nord,Blue Marble,128,8.0,4115,48,13,0,16.36,Qualcomm Snapdragon 765G,24999,oneplus nord
+OPPO A77s,Starry Black,128,8.0,5000,50,8,0,16.66,Qualcomm Snapdragon 680,16499,oppo a77s
+Nokia C01 Plus,Grey,16,2.0,3000,5,2,0,13.84,Unisoc SC9863A,5799,nokia c01 plus
+POCO M4 Pro,Power Black,128,6.0,5000,64,16,0,16.33,Mediatek Helio G96,16499,poco m4 pro
+REDMI 10A SPORT,Slate Grey,128,6.0,5000,13,5,0,16.59,Helio G25,10890,redmi 10a sport
+REDMI 10A SPORT,Charcoal Black,128,6.0,5000,13,5,0,16.59,Helio G25,10548,redmi 10a sport
+realme GT 2,Steel Black,256,,5000,50,16,0,16.81,Qualcomm Snapdragon 888,32299,realme gt 2
+SAMSUNG Galaxy A54 5G,Awesome Graphite,256,8.0,5000,50,32,0,16.26,"Exynos 1380, Octa Core",40999,samsung galaxy a54 5g
+Nokia C01 Plus,Blue,32,2.0,3000,5,2,0,13.84,Unisoc SC9863A,6299,nokia c01 plus
+vivo Y33s,Mirror Black,128,8.0,5000,50,16,0,16.71,MediaTek Helio G80,16990,vivo y33s
+vivo Y56 5G,Orange Shimmer,128,4.0,5000,50,16,0,16.71,Mediatek Dimensity 700,17999,vivo y56 5g
+realme Narzo N55,Prime Black,64,4.0,5000,64,8,0,17.07,MediaTek Helio G88,11490,realme narzo n55
+realme Narzo 50A Prime,Flash Black,128,4.0,5000,50,8,0,16.76,MediaTek Helio G88,12599,realme narzo 50a prime
+REDMI Note 10S,Frost White,128,6.0,5000,64,13,0,16.33,Mediatek Helio G95,16499,redmi note 10s
+realme X3 SuperZoom,Arctic White,256,6.0,4200,64,32,0,16.69,Qualcomm Snapdragon 855+,17999,realme x3 superzoom
+vivo V23 5G,Sunshine Gold,128,8.0,4200,64,16,0,16.36,Mediatek Dimensity 920,31989,vivo v23 5g
+APPLE iPhone 11,Black,64,,3110,12,12,0,15.49,ios,41199,apple iphone 11
+vivo T1 Pro 5G,Turbo Black,128,8.0,4700,64,16,0,16.36,Qualcomm Snapdragon 778G 5G Mobile Platform,24999,vivo t1 pro 5g
+vivo T1 Pro 5G,Turbo Cyan,128,6.0,4700,64,16,0,16.36,Qualcomm Snapdragon 778G 5G Mobile Platform,23999,vivo t1 pro 5g
+Infinix Smart 5A,Midnight Black,32,2.0,5000,8,8,0,16.56,MediaTek Helio A20,7199,infinix smart 5a
+SAMSUNG Galaxy F23 5G,Copper Blush,128,4.0,5000,50,8,0,16.76,Qualcomm Snapdragon 750G,15999,samsung galaxy f23 5g
+POCO C31,Royal Blue,64,4.0,5000,13,5,0,16.59,MediaTek G35,8999,poco c31
+MOTOROLA e22s,Eco Black,64,4.0,5000,16,8,0,16.51,Mediatek Helio G37,8940,motorola e22s
+vivo T1 Pro 5G,Turbo Cyan,128,8.0,4700,64,16,0,16.36,Qualcomm Snapdragon 778G,24999,vivo t1 pro 5g
+Tecno Spark Go 2023,Uyuni Blue,64,4.0,5000,13,5,0,16.66,MediaTek Helio A22,8288,tecno spark go 2023
+POCO C31,Royal Blue,32,3.0,5000,13,5,0,16.59,MediaTek Helio G35,8499,poco c31
+Infinix Hot 12 Pro,Halo White,64,6.0,5000,50,8,0,16.76,Unisoc T616,9999,infinix hot 12 pro
+SAMSUNG Galaxy A23,Peach,128,6.0,5000,50,8,0,16.76,Octa-core(EXYNOS),17499,samsung galaxy a23
+REDMI 9i,Midnight Black,64,4.0,5000,13,5,0,16.59,MediaTek Helio G25,8999,redmi 9i
+REDMI Note 9,Scarlet Red,128,6.0,5020,48,13,0,16.59,MediaTek Helio G85,14999,redmi note 9
+MOTOROLA Edge 30 Ultra,Starlight White,256,6.0,4610,200,60,0,16.94,Qualcomm Snapdragon 8+ Gen 1,49999,motorola edge 30 ultra
+vivo Y56 5G,Orange Shimmer,128,8.0,5000,50,16,0,16.71,MTK Dimensity 700,19979,vivo y56 5g
+SAMSUNG M53 5G,Deep Ocean Blue,128,6.0,5000,108,32,0,17.02,Mediatek Dimensity 900,23390,samsung m53 5g
+REDMI Note 10 Lite,Glacier White,128,6.0,5020,48,16,0,16.94,Qualcomm Snapdragon 720G,14385,redmi note 10 lite
+APPLE iPhone 14 Plus,Midnight,128,,4323,12,12,0,17.02,IOS,80999,apple iphone 14 plus
+vivo V25 Pro 5G,Pure Black,256,6.0,4830,64,32,0,16.66,Mediatek Dimensity 1300,30874,vivo v25 pro 5g
+Infinix Hot 12 Pro,Lightsaber Green,128,8.0,5000,108,8,0,16.76,Unisoc T616,12999,infinix hot 12 pro
+vivo V25 Pro 5G,Sailing Blue,128,8.0,4830,64,32,0,16.66,Mediatek Dimensity 1300,35999,vivo v25 pro 5g
+Infinix Hot 11,Emerald Green,64,4.0,5200,13,8,0,16.76,MediaTek Helio G70,9999,infinix hot 11
+Infinix Hot 11,Silver Wave,64,4.0,5200,13,8,0,16.76,MediaTek Helio G70,9999,infinix hot 11
+Infinix Note 12 Pro,Tuscany Blue,256,8.0,5000,108,16,1,17.02,Mediatek Helio G99,16999,infinix note 12 pro
+Infinix Note 12 Pro,Volcanic Grey,256,8.0,5000,108,16,1,17.02,Mediatek Helio G99,16999,infinix note 12 pro
+vivo T1 Pro 5G,Turbo Black,128,6.0,4700,64,16,0,16.36,Qualcomm Snapdragon 778G 5G Mobile Platform,23999,vivo t1 pro 5g
+Tecno Pova 3,Eco Black,128,6.0,7000,50,8,0,17.53,MediaTek Helio G88,13999,tecno pova 3
+REDMI 12c,Royal Blue,128,6.0,5000,50,5,0,17.04,MediaTek Helio G85,10799,redmi 12c
+LAVA Z2,Flame Red,32,3.0,5000,13,8,0,16.55,MediaTek Helio G35,7999,lava z2
+Infinix Hot 12 Pro,Lightsaber Green,64,6.0,5000,50,8,0,16.76,Unisoc T616,9999,infinix hot 12 pro
+Infinix Hot 12 Pro,Racing Black,64,6.0,5000,50,8,0,16.76,Unisoc T616,9999,infinix hot 12 pro
+Infinix Hot 12 Pro,Electric Blue,64,6.0,5000,50,8,0,16.76,Unisoc T616,9999,infinix hot 12 pro
+realme Narzo 50A,Oxygen Green,128,4.0,6000,50,8,0,16.51,MediaTek Helio G85,11762,realme narzo 50a
+REDMI Note 11T 5G,Aquamarine Blue,128,6.0,5000,50,16,0,16.76,Mediatek Dimensity 810,18990,redmi note 11t 5g
+REDMI Note 11T 5G,Matte Black,128,8.0,5000,50,16,0,16.76,Mediatek Dimensity 810,18999,redmi note 11t 5g
+Infinix Note 11s Free Fire Edition,Mithril Grey,128,8.0,5000,50,16,0,17.65,MediaTek Helio G96,15999,infinix note 11s free fire edition
+vivo V25 5G,Elegant Black,256,8.0,4500,64,50,0,16.36,Mediatek Dimensity 900,29418,vivo v25 5g
+vivo V25 Pro 5G,Sailing Blue,256,8.0,4830,64,32,0,16.66,Mediatek Dimensity 1300,33367,vivo v25 pro 5g
+MOTOROLA g31,Meteorite Grey,64,4.0,5000,50,13,0,16.26,Mediatek Helio G85,11999,motorola g31
+SAMSUNG Galaxy A54 5G,Awesome Violet,256,8.0,5000,50,32,0,16.26,"Exynos 1380, Octa Core",40999,samsung galaxy a54 5g
+realme C11 2021,Cool Grey,32,2.0,5000,8,5,0,16.51,Octa-core,7499,realme c11 2021
+vivo Y21T,Pearl White,128,4.0,5000,50,8,0,16.71,Qualcomm Snapdragon 680,15499,vivo y21t
+REDMI K50i 5G,Phantom Blue,256,8.0,5080,64,16,0,16.76,Dimensity 8100,29990,redmi k50i 5g
+Tecno Spark Go 2023,Nebula Purple,32,3.0,5000,13,5,0,16.66,MediaTek Helio A22,7280,tecno spark go 2023
+APPLE iPhone 14 Plus,Purple,128,,4323,12,12,0,17.02,6 Core,80999,apple iphone 14 plus
+Tecno Spark Go 2023,Uyuni Blue,64,4.0,5000,13,5,0,16.66,Mediatek Helio A22,8999,tecno spark go 2023
+IQOO Neo 7 5G,Frost Blue,256,,5000,64,16,0,17.22,Dimensity 8200,34688,iqoo neo 7 5g
+realme 9 5G,Meteor Black,64,4.0,5000,48,16,0,16.51,Mediatek Dimensity 810,13499,realme 9 5g
+realme 9 5G,Supersonic Black,64,4.0,5000,48,16,0,16.51,Mediatek Dimensity 810,13499,realme 9 5g
+APPLE iPhone 14 Plus,Starlight,128,,4323,12,12,0,17.02,ios,80999,apple iphone 14 plus
+vivo Y100 5G,Metal Black,128,8.0,4500,64,16,0,16.21,Mediatek Dimensity 900,23999,vivo y100 5g
+vivo Y100 5G,Twilight Gold,128,8.0,4500,64,16,0,16.21,Mediatek Dimensity 900,23999,vivo y100 5g
+SAMSUNG Galaxy A23,Blue,128,6.0,5000,50,8,0,16.76,Octa-core(EXYNOS),17499,samsung galaxy a23
+realme Narzo 50i Prime,Mint Green,64,4.0,5000,8,5,0,16.51,Unisoc T612 processor,8460,realme narzo 50i prime
+SAMSUNG Galaxy A04,Copper,128,4.0,5000,50,5,0,16.51,Mediatek Helio P35,12999,samsung galaxy a04
+OPPO F21s Pro,Starlight Black,128,8.0,4500,64,16,0,16.33,Qualcomm SM6225 Snapdragon 680 4G (6 nm),20890,oppo f21s pro
+APPLE iPhone 12,Blue,64,,2815,12,12,0,15.49,ios,53999,apple iphone 12
+SAMSUNG Galaxy A13,Peach,128,6.0,5000,50,8,0,16.76,Exynos Octa Core,16499,samsung galaxy a13
+Nokia G11 Plus,Grey,64,4.0,5000,50,8,0,16.55,Octa Core,9790,nokia g11 plus
+SAMSUNG Galaxy A04e,Light Blue,64,3.0,5000,13,5,0,16.51,Mediatek Helio P35,9999,samsung galaxy a04e
+SAMSUNG Galaxy S23 5G,Cream,256,8.0,3900,50,12,0,15.49,Qualcomm Snapdragon 8 Gen 2,79999,samsung galaxy s23 5g
+LAVA Z21,Cyan,32,2.0,3100,5,2,0,12.7,Octa Core,5998,lava z21
+Tecno Spark 8T,Turquoise Cyan,64,4.0,5000,50,8,0,16.76,MediaTek Helio G35,9990,tecno spark 8t
+SAMSUNG Galaxy A54 5G,Awesome Lime,128,8.0,5000,50,32,0,16.26,"Exynos 1380, Octa Core",38999,samsung galaxy a54 5g
+OPPO A77,Sky Blue,128,4.0,5000,50,8,0,16.66,Mediatek Helio G35,15999,oppo a77

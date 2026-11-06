@@ -1,0 +1,26 @@
+model,colour,storage_gb,ram_gb,battery_mah,rear_camera_mp,front_camera_mp,ai_lens,display_size_cm,processor,price,model_key,reason
+vivo T2x 5G,Marine Blue,128,6,5000,50,8,0,16.71,Dimensity 6020,13999,vivo t2x 5g,duplicate listing
+MOTOROLA e32,Arctic Blue,64,4,5000,50,8,0,16.51,Mediatek Helio G37,7999,motorola e32,duplicate listing
+SAMSUNG Galaxy F14 5G,B.A.E. Purple,128,4,6000,50,13,0,16.76,"Exynos 1330, Octa Core",13490,samsung galaxy f14 5g,duplicate listing
+SAMSUNG Galaxy F14 5G,Omg Black,128,6,6000,50,13,0,16.76,"Exynos 1330, Octa Core",14490,samsung galaxy f14 5g,duplicate listing
+redmi min,Unknown,16,4,1000,0,0,0,4.57,Spreadtrum,920,redmi min,duplicate listing
+Tecno Spark 9T,Turquoise Cyan,64,4,5000,50,8,0,16.76,MediaTek Helio G35,9290,tecno spark 9t,duplicate listing
+POCO X4 Pro 5G,Laser Black,128,8,5000,64,16,0,16.94,Qualcomm Snapdragon 695 5G,19499,poco x4 pro 5g,duplicate listing
+realme C30s,Stripe Black,64,4,5000,8,5,0,16.51,Unisoc SC9863A/ Unisoc SC9863A1,8499,realme c30s,duplicate listing
+vivo Y100 5G,Pacific Blue,128,8,4500,64,16,0,16.21,Mediatek Dimensity 900,23999,vivo y100 5g,duplicate listing
+POCO C31,Royal Blue,64,4,5000,13,5,0,16.59,MediaTek G35,8999,poco c31,duplicate listing
+Micromax IN 2C,Nebula Blue,128,6,800,0,0,0,4.5,SC6531E,1449,micromax in 2c,feature phone (out of scope)
+micromax 2,Blade Silver,128,8,1900,2,0,0,7.11,SC6531E,1849,micromax 2,feature phone (out of scope)
+micromax,Omg Black,128,4,1000,0,0,0,4.5,SC6531E,1422,micromax,feature phone (out of scope)
+micromax 1,Eclipse Black,256,8,800,0,0,0,4.5,SC6531E,1299,micromax 1,feature phone (out of scope)
+Micromax 3,Omg Black,128,4,1020,2,0,0,6.1,MediaTek,2615,micromax 3,feature phone (out of scope)
+micromax 3,Racing Black,64,4,800,2,0,0,5.08,0 0 0 208MHz,2490,micromax 3,feature phone (out of scope)
+micromax 2,Nebula Green,256,8,800,0,0,0,4.5,SC6531E,1299,micromax 2,feature phone (out of scope)
+micromax 3,Nebula Green,256,4,1020,2,0,0,6.1,MediaTek,2499,micromax 3,feature phone (out of scope)
+micromax,Light Silver,32,3,2550,0,0,0,4.5,SC6531E,1375,micromax,feature phone (out of scope)
+micromax 1,Light Silver,32,3,800,0,0,0,4.5,SC6531E,1599,micromax 1,feature phone (out of scope)
+micromax 2,Dark Green,32,4,1020,2,0,0,6.1,MediaTek,2499,micromax 2,feature phone (out of scope)
+redmi max,Unknown,16,8,1200,2,0,0,6.1,MT6260A,3549,redmi max,feature phone (out of scope)
+redmi mono,Unknown,16,4,1000,0,0,0,4.5,MTK6261D,1699,redmi mono,feature phone (out of scope)
+redmi min,Unknown,16,4,1000,0,0,0,4.57,Spreadtrum,920,redmi min,feature phone (out of scope)
+micromax,Lake Blue,64,4,1500,0,0,0,6.1,Mediatek MT6261D,1199,micromax,feature phone (out of scope)

@@ -1,0 +1,10 @@
+step,rows_affected,detail
+Drop 'Unnamed: 0' and rename columns,541,index artefact; snake_case names
+Convert price and camera strings to integers,541,"'7,299' -> 7299; '50MP' -> 50"
+"Normalise whitespace, fix encoding and 3 model-name errors",23,
+Title-case colours; 'M3)' -> 'Unknown',5,
+Relabel 'Google Pixel 6a' row with Nothing Phone 1 specs,1,all spec fields identical to nothing phone 1 rows
+Replace impossible display size (41.94 cm) with same-model value,2,
+Drop duplicate listings (all fields identical),10,
+Exclude feature phones (battery < 2600 mAh or display < 10 cm),15,unreliable storage/RAM; different product category
+Set implausible RAM to missing (256 GB with <= 4 GB RAM; Apple rows),15,imputed with training median inside the pipeline
